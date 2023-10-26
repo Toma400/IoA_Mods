@@ -1,0 +1,13 @@
+{
+    "key": "races__trollager",
+    "attributes": {
+        "strength":      3,
+        "charisma":      1,
+        "intelligence": -1
+    },
+    "skills": {
+        "ore_processing": 1,
+        "cooking":        1,
+        "toughness":      1
+    }
+}

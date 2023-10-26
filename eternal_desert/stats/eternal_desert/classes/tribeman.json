@@ -1,0 +1,8 @@
+{
+    "key": "classes__tribeman",
+    "races_exclusive": ["eternal_desert:trollager"],
+    "skills": {
+        "smithing": 1,
+        "cooking":  1
+    }
+}

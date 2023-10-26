@@ -1,0 +1,22 @@
+races__trollager = "Trollager"
+
+classes__tribeman = "Tribeman"
+
+origin__desolat = "Desolat"
+
+races__trollager_descr = '''
+<b>Trollagers</b> are race of tough craftsmans and sturdy fighters, making their tools out of easily findable materials.
+They spend their lives trying to help their town to survive and occasionally to defend themselves, or, in case of more adventurous folks, to rob some wandering souls.
+
+Trollagers are well versed when it comes to survivality, as they are prepared for harsh times with their knowledge on material processing, smithing and cooking.
+Their extraordinary strength and charisma make them very versatile, thanks to which they often establish trades between their towns on Desolat lands.
+'''
+
+classes__tribeman_descr = '''
+Trollager's tribemen are known to be excellent craftsmen and their knowledge on how to create and use tools may exceed many experienced humans!
+They are well prepared for various situations on their way, as well as able to help their tribe village raise with their strength and skills.
+'''
+
+origin__desolat_descr = '''
+It's yet another day in Aji'n. You look at pale, yellowish trees around your camp. Near you there is a desert you were told to roam.
+'''

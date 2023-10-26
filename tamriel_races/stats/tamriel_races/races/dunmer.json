@@ -1,0 +1,62 @@
+{
+    "key": "races__dunmer",
+    "attributes": {
+        "agility":      2,
+        "endurance":    1,
+        "intelligence": 1
+    },
+    "skills": {
+        "shortswords":  1,
+        "light_armour": 1,
+        "spellcasting": 1
+    },
+    "magic": {
+        "elements": {
+            "fire": 2
+        },
+        "kinds": {
+            "destruction": 4
+        }
+    },
+    "names": {
+        "male": [
+            "Ano",
+            "Galos",
+            "Anes",
+            "Arns",
+            "Avon",
+            "Avus",
+            "Balen",
+            "Balis",
+            "Breyns",
+            "Daris",
+            "Direr",
+            "Dranas",
+            "Draren",
+            "Drathas",
+            "Dravil",
+            "Dreyns",
+            "Enar",
+            "Eno",
+            "Ervis",
+            "Fedris",
+            "Fendel",
+            "Gaden",
+            "Galar",
+            "Galtis",
+            "Gilas",
+            "Gils",
+            "Ienas",
+            "Llaalam",
+            "Llerar",
+            "Manos",
+            "Novor",
+            "Ralen",
+            "Ralyn",
+            "Talis",
+            "Taren",
+            "Ulms",
+            "Vaval"
+        ]
+    }
+}

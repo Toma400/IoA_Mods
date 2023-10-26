@@ -1,0 +1,12 @@
+races__dunmer   = "Dunmer"
+races__redguard = "Redguard"
+
+races__dunmer_descr = '''
+<b>Dunmeri</b> are proud inhabitants of Morrowind province, known for their grey skin and distrust towards outsiders.
+Despite being quick tempered and ruthless, they highly value family and loyalty.
+
+As a race, dunmers are known to be powerful masters of sword and magic, making them great and versatile warriors.
+'''
+races__redguard_descr = '''
+Redguards are 
+'''

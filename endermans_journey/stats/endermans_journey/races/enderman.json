@@ -1,0 +1,25 @@
+{
+    "key": "races__enderman",
+    "attributes": {
+        "agility": 3
+    },
+    "skills": {
+        "handfight":    1,
+        "common_magic": 1
+    },
+    "magic": {
+        "elements": {
+            "void": 1
+        },
+        "kinds": {
+            "transformation": 1
+        }
+    },
+    "resistances": {
+        "water": -100
+    },
+    "perks": [
+        "enderman's_journey:teleportation",
+        "enderman's_journey:attack_avoidance"
+    ]
+}
