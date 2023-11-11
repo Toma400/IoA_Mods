@@ -1,0 +1,11 @@
+name    = "Eternal Desert"
+credits = "Toma400"
+url     = "linktr.ee/toma400"
+version = "0.1"
+
+description  = '''
+Adds Desolat land from Aji'nverse.
+'''
+
+[requirements] # needs to be at the end to not be buggy
+ansur = "<0.4+"

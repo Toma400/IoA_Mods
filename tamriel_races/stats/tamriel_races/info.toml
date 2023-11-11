@@ -1,0 +1,11 @@
+name    = "Tamriel Races"
+credits = "Toma400"
+url     = "linktr.ee/toma400"
+version = "0.2"
+
+description  = '''
+Adds playable races from Elder Scrolls universe.
+'''
+
+[requirements] # needs to be at the end to not be buggy
+ansur = "<0.4+"

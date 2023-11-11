@@ -1,7 +1,7 @@
 {
   "key": "origin__desolat",
   "new_game": {
-    "location": "eternal_desert:tutorial",
+    "location": "eternal_desert:test",
     "inventory": []
   }
 }
