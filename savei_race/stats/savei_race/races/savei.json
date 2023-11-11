@@ -1,0 +1,25 @@
+{
+    "key": "savei",
+    "attributes": {
+        "intelligence":  2,
+        "endurance":     1,
+        "strength":      1
+    },
+    "power": {
+        "void": 2
+    },
+    "skills": {
+        "wound_treatment":  1,
+        "spellcasting":     1,
+        "light_armour":     1
+    },
+    "magic": {
+        "elements": {
+            "soul": 3
+        },
+        "kind": {
+            "evocation":  2,
+            "absorption": 1
+        }
+    }
+}

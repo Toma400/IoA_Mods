@@ -1,0 +1,11 @@
+name    = "Savei Race"
+credits = "Toma400, skeletontonguedworld"
+url     = "https://github.com/Toma400/IoA_Mods"
+version = "0.1"
+
+description  = '''
+Adds Savei race from Baedoor universe, using @skeletontonguedworld concept arts.
+'''
+
+[requirements] # needs to be at the end to not be buggy
+ansur = "<0.4+"
